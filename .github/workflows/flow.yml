@@ -1,6 +1,5 @@
 name: Saludo
-on:
-  - push
+on: [push]
 
 jobs:
   saludo:
